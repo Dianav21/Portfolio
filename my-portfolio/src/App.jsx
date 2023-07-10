@@ -1,8 +1,7 @@
-import React from 'react'
-import { useState } from 'react'
+import React from 'react';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Navbar } from "./components/Navbar";
+import { NavBar } from "./components/NavBar";
 import { Banner } from "./components/Banner";
 import { Skills } from "./components/Skills";
 import { Projects } from "./components/Projects";
@@ -11,7 +10,7 @@ function App() {
 
   return (
       <div className="App">
-      <Navbar />
+      <NavBar />
       <Banner />
       <Skills />
       <Projects />
