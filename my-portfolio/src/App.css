@@ -173,7 +173,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 /*Banner CSS*/
 .banner {
   margin-top: 0;
-  padding: 470px;
+  padding: 450px;
   /* background-image: linear-gradient(rgba(248, 55, 170, 0.716), rgba(95, 71, 201, 0.5) 111.58%); */
   background-image: url('./assets/img/banner-bg.jpg');
   background-position: absolute;

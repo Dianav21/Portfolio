@@ -47,7 +47,7 @@ export const Banner = () => {
                 <Col xs={12} md={6} xl={7}>
                     <span className="tagline">Welcome. Ready to explore?</span>
                             <h1>{`Diana Vargas, `}<span className="wrap">{text}</span></h1>
-                            <p>About myself</p>
+                            <p>This past year, I have pivoted from criminal justice to the tech industry. Although my field has changed, my desire to bring forth positive change has not. I aim to work in an environment that focuses on bettering the world around us. I have built full stack applications with React, SQL, Prisma, Bootstrap, Tailwind, Node.js, Express etc…I am also delving into the world of cloud computing. I’m focused on learning all there is know about the cloud and how to implement/run instances. </p>
                             <button onClick={() => console.log('connect')}>Let's Connect <ArrowRightCircle size={25}/></button>
                     </Col>
                     <Col xs={12} md={6} xl={5}>
